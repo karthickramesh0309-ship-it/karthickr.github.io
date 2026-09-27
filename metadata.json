@@ -1,0 +1,6 @@
+{
+  "name": "Prakruthi Beauty Salon",
+  "description": "Premium salon transformations and authentic before-and-after comparison gallery for hair, skin, bridal, and wellness services at Prakruthi Beauty Salon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
