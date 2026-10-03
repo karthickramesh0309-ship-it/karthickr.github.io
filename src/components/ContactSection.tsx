@@ -114,7 +114,7 @@ export const ContactSection: React.FC<ContactSectionProps> = ({ onOpenBooking })
               {/* Arched Photo Container matching reference top arch design */}
               <div className="w-full h-72 sm:h-80 rounded-t-[140px] rounded-b-2xl overflow-hidden shadow-xl border-4 border-white bg-neutral-100 relative group">
                 <img
-                  src="https://images.unsplash.com/photo-1560066984-138dadb4c035?q=80&w=900&auto=format&fit=crop"
+                  src="/salon.png"
                   alt="Prakruthi Beauty Salon Ambience and Styling Station"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                   loading="lazy"
